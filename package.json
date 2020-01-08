@@ -1,0 +1,22 @@
+{
+  "name": "request_header_parser_microservice",
+  "version": "1.0.0",
+  "description": "FreeCodeCamp API MicroService Request Header Parser",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jkcd86/request_header_parser_microservice.git"
+  },
+  "keywords": [
+    "freeCodeCamp"
+  ],
+  "author": "Manuel Valtingojer",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jkcd86/request_header_parser_microservice/issues"
+  },
+  "homepage": "https://github.com/jkcd86/request_header_parser_microservice#readme"
+}
